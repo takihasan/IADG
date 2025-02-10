@@ -1,6 +1,7 @@
 # IADG
 
 # Instance-Aware Test-Time Adaptation for Domain Generalization
+Taki Hasan Rafi, Serbeter Karlo, Amit Agarwal, Hitesh Patel, Bhargava Kumar, Dong-Kyu Chae
 
 The paper has been accepted by **DASFAA 2025**.
 ## Abstract
